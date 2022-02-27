@@ -74,5 +74,11 @@ $ ./manage.py runserver
 Now you can access the local server in the default port
 
 ```url
-http://localhost:8000/api
+http://localhost:8000/api/
+```
+
+Testing the weather api
+
+```url
+http://localhost:8000/api/weather?city=Bogota&country=co
 ```
