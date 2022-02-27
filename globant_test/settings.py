@@ -11,19 +11,17 @@ https://docs.djangoproject.com/en/4.0/ref/settings/
 """
 
 from pathlib import Path
+import environ
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
-BASE_DIR = Path(__file__).resolve().parent.parent
-
-
+BASE_DIR = Path(__file__).resolve(strict=True).parent.parent
+env = environ.Env()
+env.read_env(str(BASE_DIR / '.env'))
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/4.0/howto/deployment/checklist/
 
-# SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-_^!-s&le+w_@@a^p+ifvmysb!^g9tplopqkqwm3&1g^rlr%2wx'
-
-# SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = env('DEBUG', default=False)
+SECRET_KEY = env('SECRET_KEY', default='')
 
 ALLOWED_HOSTS = []
 
@@ -37,6 +35,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'rest_framework',
+    'weather',
 ]
 
 MIDDLEWARE = [
@@ -99,13 +99,19 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
+CACHES = {
+    'default': {
+        'BACKEND': 'django.core.cache.backends.locmem.LocMemCache',
+        'LOCATION': 'unique-snowflake',
+    }
+}
 
 # Internationalization
 # https://docs.djangoproject.com/en/4.0/topics/i18n/
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'America/Bogota'
 
 USE_I18N = True
 
@@ -121,3 +127,7 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+OPEN_WEATHER_MAP_URL = env('OPEN_WEATHER_MAP_URL', default='')
+OPEN_WEATHER_MAP_ID = env('OPEN_WEATHER_MAP_ID', default='')
+WEATHER_DATA_CACHE_TIME = 120

@@ -1,0 +1,365 @@
+{
+  "total_forecasts": 40,
+  "forecast_data": [
+    {
+      "temperature": ["17 °C", "62 °F"],
+      "wind": "Calm, 0.71 m/s, East-Southeast",
+      "cloudiness": "Broken clouds",
+      "precipitation": "93%",
+      "pressure": "1016 hpa",
+      "humidity": "97%",
+      "time_forecasted": "02/27/2022, 01:00:00"
+    },
+    {
+      "temperature": ["16 °C", "61 °F"],
+      "wind": "Calm, 0.84 m/s, East",
+      "cloudiness": "Broken clouds",
+      "precipitation": "59%",
+      "pressure": "1015 hpa",
+      "humidity": "96%",
+      "time_forecasted": "02/27/2022, 04:00:00"
+    },
+    {
+      "temperature": ["17 °C", "62 °F"],
+      "wind": "Calm, 0.73 m/s, East",
+      "cloudiness": "Broken clouds",
+      "precipitation": "59%",
+      "pressure": "1016 hpa",
+      "humidity": "95%",
+      "time_forecasted": "02/27/2022, 07:00:00"
+    },
+    {
+      "temperature": ["21 °C", "69 °F"],
+      "wind": "Calm, 1.22 m/s, West",
+      "cloudiness": "Broken clouds",
+      "precipitation": "82%",
+      "pressure": "1016 hpa",
+      "humidity": "83%",
+      "time_forecasted": "02/27/2022, 10:00:00"
+    },
+    {
+      "temperature": ["23 °C", "73 °F"],
+      "wind": "Calm, 1.04 m/s, West",
+      "cloudiness": "Broken clouds",
+      "precipitation": "100%",
+      "pressure": "1012 hpa",
+      "humidity": "78%",
+      "time_forecasted": "02/27/2022, 13:00:00"
+    },
+    {
+      "temperature": ["20 °C", "69 °F"],
+      "wind": "Calm, 0.67 m/s, South-Southwest",
+      "cloudiness": "Broken clouds",
+      "precipitation": "100%",
+      "pressure": "1011 hpa",
+      "humidity": "91%",
+      "time_forecasted": "02/27/2022, 16:00:00"
+    },
+    {
+      "temperature": ["17 °C", "63 °F"],
+      "wind": "Calm, 0.59 m/s, East-Southeast",
+      "cloudiness": "Broken clouds",
+      "precipitation": "100%",
+      "pressure": "1014 hpa",
+      "humidity": "98%",
+      "time_forecasted": "02/27/2022, 19:00:00"
+    },
+    {
+      "temperature": ["17 °C", "62 °F"],
+      "wind": "Calm, 0.41 m/s, Northeast",
+      "cloudiness": "Broken clouds",
+      "precipitation": "100%",
+      "pressure": "1016 hpa",
+      "humidity": "99%",
+      "time_forecasted": "02/27/2022, 22:00:00"
+    },
+    {
+      "temperature": ["16 °C", "62 °F"],
+      "wind": "Calm, 0.24 m/s, Southeast",
+      "cloudiness": "Broken clouds",
+      "precipitation": "100%",
+      "pressure": "1015 hpa",
+      "humidity": "99%",
+      "time_forecasted": "02/28/2022, 01:00:00"
+    },
+    {
+      "temperature": ["16 °C", "61 °F"],
+      "wind": "Calm, 0.34 m/s, North-Northeast",
+      "cloudiness": "Broken clouds",
+      "precipitation": "100%",
+      "pressure": "1014 hpa",
+      "humidity": "99%",
+      "time_forecasted": "02/28/2022, 04:00:00"
+    },
+    {
+      "temperature": ["16 °C", "61 °F"],
+      "wind": "Calm, 0.15 m/s, Northeast",
+      "cloudiness": "Broken clouds",
+      "precipitation": "100%",
+      "pressure": "1016 hpa",
+      "humidity": "98%",
+      "time_forecasted": "02/28/2022, 07:00:00"
+    },
+    {
+      "temperature": ["18 °C", "64 °F"],
+      "wind": "Calm, 0.13 m/s, West-Southwest",
+      "cloudiness": "Broken clouds",
+      "precipitation": "96%",
+      "pressure": "1017 hpa",
+      "humidity": "92%",
+      "time_forecasted": "02/28/2022, 10:00:00"
+    },
+    {
+      "temperature": ["19 °C", "66 °F"],
+      "wind": "Calm, 0.56 m/s, West-Northwest",
+      "cloudiness": "Broken clouds",
+      "precipitation": "96%",
+      "pressure": "1014 hpa",
+      "humidity": "88%",
+      "time_forecasted": "02/28/2022, 13:00:00"
+    },
+    {
+      "temperature": ["19 °C", "67 °F"],
+      "wind": "Calm, 0.45 m/s, West-Northwest",
+      "cloudiness": "Broken clouds",
+      "precipitation": "60%",
+      "pressure": "1012 hpa",
+      "humidity": "85%",
+      "time_forecasted": "02/28/2022, 16:00:00"
+    },
+    {
+      "temperature": ["17 °C", "62 °F"],
+      "wind": "Calm, 1.03 m/s, East-Northeast",
+      "cloudiness": "Broken clouds",
+      "precipitation": "63%",
+      "pressure": "1013 hpa",
+      "humidity": "97%",
+      "time_forecasted": "02/28/2022, 19:00:00"
+    },
+    {
+      "temperature": ["16 °C", "60 °F"],
+      "wind": "Calm, 1.13 m/s, East",
+      "cloudiness": "Broken clouds",
+      "precipitation": "28%",
+      "pressure": "1016 hpa",
+      "humidity": "96%",
+      "time_forecasted": "02/28/2022, 22:00:00"
+    },
+    {
+      "temperature": ["16 °C", "60 °F"],
+      "wind": "Calm, 0.79 m/s, East-Northeast",
+      "cloudiness": "Broken clouds",
+      "precipitation": "27%",
+      "pressure": "1015 hpa",
+      "humidity": "93%",
+      "time_forecasted": "03/01/2022, 01:00:00"
+    },
+    {
+      "temperature": ["15 °C", "58 °F"],
+      "wind": "Calm, 1.15 m/s, East-Northeast",
+      "cloudiness": "Scattered clouds",
+      "precipitation": "9%",
+      "pressure": "1014 hpa",
+      "humidity": "93%",
+      "time_forecasted": "03/01/2022, 04:00:00"
+    },
+    {
+      "temperature": ["16 °C", "60 °F"],
+      "wind": "Calm, 0.92 m/s, East-Northeast",
+      "cloudiness": "Scattered clouds",
+      "precipitation": "0%",
+      "pressure": "1016 hpa",
+      "humidity": "89%",
+      "time_forecasted": "03/01/2022, 07:00:00"
+    },
+    {
+      "temperature": ["23 °C", "73 °F"],
+      "wind": "Calm, 1.46 m/s, West-Southwest",
+      "cloudiness": "Few clouds",
+      "precipitation": "5%",
+      "pressure": "1015 hpa",
+      "humidity": "65%",
+      "time_forecasted": "03/01/2022, 10:00:00"
+    },
+    {
+      "temperature": ["25 °C", "78 °F"],
+      "wind": "Light Air, 1.61 m/s, West-Southwest",
+      "cloudiness": "Few clouds",
+      "precipitation": "75%",
+      "pressure": "1010 hpa",
+      "humidity": "59%",
+      "time_forecasted": "03/01/2022, 13:00:00"
+    },
+    {
+      "temperature": ["21 °C", "70 °F"],
+      "wind": "Calm, 0.73 m/s, Southeast",
+      "cloudiness": "Scattered clouds",
+      "precipitation": "99%",
+      "pressure": "1009 hpa",
+      "humidity": "81%",
+      "time_forecasted": "03/01/2022, 16:00:00"
+    },
+    {
+      "temperature": ["18 °C", "64 °F"],
+      "wind": "Calm, 0.95 m/s, East-Northeast",
+      "cloudiness": "Broken clouds",
+      "precipitation": "99%",
+      "pressure": "1012 hpa",
+      "humidity": "97%",
+      "time_forecasted": "03/01/2022, 19:00:00"
+    },
+    {
+      "temperature": ["17 °C", "62 °F"],
+      "wind": "Calm, 0.86 m/s, East",
+      "cloudiness": "Broken clouds",
+      "precipitation": "93%",
+      "pressure": "1015 hpa",
+      "humidity": "97%",
+      "time_forecasted": "03/01/2022, 22:00:00"
+    },
+    {
+      "temperature": ["16 °C", "61 °F"],
+      "wind": "Calm, 0.9 m/s, East",
+      "cloudiness": "Broken clouds",
+      "precipitation": "100%",
+      "pressure": "1014 hpa",
+      "humidity": "97%",
+      "time_forecasted": "03/02/2022, 01:00:00"
+    },
+    {
+      "temperature": ["16 °C", "61 °F"],
+      "wind": "Calm, 0.42 m/s, East-Southeast",
+      "cloudiness": "Broken clouds",
+      "precipitation": "94%",
+      "pressure": "1013 hpa",
+      "humidity": "97%",
+      "time_forecasted": "03/02/2022, 04:00:00"
+    },
+    {
+      "temperature": ["17 °C", "62 °F"],
+      "wind": "Calm, 0.37 m/s, East",
+      "cloudiness": "Broken clouds",
+      "precipitation": "90%",
+      "pressure": "1015 hpa",
+      "humidity": "97%",
+      "time_forecasted": "03/02/2022, 07:00:00"
+    },
+    {
+      "temperature": ["19 °C", "66 °F"],
+      "wind": "Calm, 0.67 m/s, West-Northwest",
+      "cloudiness": "Broken clouds",
+      "precipitation": "97%",
+      "pressure": "1016 hpa",
+      "humidity": "93%",
+      "time_forecasted": "03/02/2022, 10:00:00"
+    },
+    {
+      "temperature": ["21 °C", "69 °F"],
+      "wind": "Calm, 0.3 m/s, West-Northwest",
+      "cloudiness": "Broken clouds",
+      "precipitation": "100%",
+      "pressure": "1013 hpa",
+      "humidity": "86%",
+      "time_forecasted": "03/02/2022, 13:00:00"
+    },
+    {
+      "temperature": ["21 °C", "70 °F"],
+      "wind": "Calm, 0.33 m/s, West-Southwest",
+      "cloudiness": "Broken clouds",
+      "precipitation": "96%",
+      "pressure": "1010 hpa",
+      "humidity": "82%",
+      "time_forecasted": "03/02/2022, 16:00:00"
+    },
+    {
+      "temperature": ["18 °C", "64 °F"],
+      "wind": "Calm, 0.76 m/s, East-Southeast",
+      "cloudiness": "Broken clouds",
+      "precipitation": "96%",
+      "pressure": "1013 hpa",
+      "humidity": "96%",
+      "time_forecasted": "03/02/2022, 19:00:00"
+    },
+    {
+      "temperature": ["17 °C", "62 °F"],
+      "wind": "Calm, 0.95 m/s, East",
+      "cloudiness": "Broken clouds",
+      "precipitation": "43%",
+      "pressure": "1015 hpa",
+      "humidity": "96%",
+      "time_forecasted": "03/02/2022, 22:00:00"
+    },
+    {
+      "temperature": ["16 °C", "60 °F"],
+      "wind": "Calm, 1.02 m/s, East",
+      "cloudiness": "Broken clouds",
+      "precipitation": "27%",
+      "pressure": "1014 hpa",
+      "humidity": "95%",
+      "time_forecasted": "03/03/2022, 01:00:00"
+    },
+    {
+      "temperature": ["15 °C", "60 °F"],
+      "wind": "Calm, 0.88 m/s, East",
+      "cloudiness": "Broken clouds",
+      "precipitation": "24%",
+      "pressure": "1014 hpa",
+      "humidity": "95%",
+      "time_forecasted": "03/03/2022, 04:00:00"
+    },
+    {
+      "temperature": ["16 °C", "61 °F"],
+      "wind": "Calm, 0.59 m/s, East",
+      "cloudiness": "Broken clouds",
+      "precipitation": "28%",
+      "pressure": "1015 hpa",
+      "humidity": "94%",
+      "time_forecasted": "03/03/2022, 07:00:00"
+    },
+    {
+      "temperature": ["20 °C", "69 °F"],
+      "wind": "Calm, 0.94 m/s, West",
+      "cloudiness": "Broken clouds",
+      "precipitation": "30%",
+      "pressure": "1016 hpa",
+      "humidity": "82%",
+      "time_forecasted": "03/03/2022, 10:00:00"
+    },
+    {
+      "temperature": ["25 °C", "78 °F"],
+      "wind": "Light Air, 1.61 m/s, West-Southwest",
+      "cloudiness": "Broken clouds",
+      "precipitation": "89%",
+      "pressure": "1010 hpa",
+      "humidity": "61%",
+      "time_forecasted": "03/03/2022, 13:00:00"
+    },
+    {
+      "temperature": ["23 °C", "74 °F"],
+      "wind": "Calm, 1.11 m/s, South-Southwest",
+      "cloudiness": "Broken clouds",
+      "precipitation": "99%",
+      "pressure": "1008 hpa",
+      "humidity": "76%",
+      "time_forecasted": "03/03/2022, 16:00:00"
+    },
+    {
+      "temperature": ["18 °C", "64 °F"],
+      "wind": "Calm, 0.93 m/s, East",
+      "cloudiness": "Broken clouds",
+      "precipitation": "99%",
+      "pressure": "1011 hpa",
+      "humidity": "97%",
+      "time_forecasted": "03/03/2022, 19:00:00"
+    },
+    {
+      "temperature": ["17 °C", "63 °F"],
+      "wind": "Calm, 0.56 m/s, East",
+      "cloudiness": "Broken clouds",
+      "precipitation": "97%",
+      "pressure": "1015 hpa",
+      "humidity": "97%",
+      "time_forecasted": "03/03/2022, 22:00:00"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+    "location_name": "Pereira, CO",
+    "temperature": ["17 °C", "62 °F"],
+    "wind": "Calm, 0.67 m/s, Southeast",
+    "cloudiness": "Overcast clouds",
+    "pressure": "1016 hpa",
+    "humidity": "98%",
+    "sunrise": "06:15",
+    "sunset": "18:16",
+    "geo_coordinates": [4.8133, -75.6961],
+    "requested_time": "02/26/2022, 22:26:48"
+}
+  

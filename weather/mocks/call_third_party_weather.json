@@ -1,0 +1,44 @@
+{
+  "coord": {
+    "lon": -75.6961,
+    "lat": 4.8133
+  },
+  "weather": [
+    {
+      "id": 804,
+      "main": "Clouds",
+      "description": "overcast clouds",
+      "icon": "04n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 16.84,
+    "feels_like": 17.14,
+    "temp_min": 16.84,
+    "temp_max": 16.84,
+    "pressure": 1016,
+    "humidity": 98,
+    "sea_level": 1016,
+    "grnd_level": 863
+  },
+  "visibility": 9028,
+  "wind": {
+    "speed": 0.67,
+    "deg": 136,
+    "gust": 0.7
+  },
+  "clouds": {
+    "all": 99
+  },
+  "dt": 1645932408,
+  "sys": {
+    "country": "CO",
+    "sunrise": 1645874125,
+    "sunset": 1645917377
+  },
+  "timezone": -18000,
+  "id": 3672486,
+  "name": "Pereira",
+  "cod": 200
+}
