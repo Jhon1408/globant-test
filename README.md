@@ -72,6 +72,21 @@ or
 $ ./manage.py runserver
 ```
 
+If the running instance shows this error
+
+```txt
+You have 18 unapplied migration(s). 
+Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+```
+
+You can execute the following commands, however this are not needed by the API to work
+
+```shell
+$ ./manage.py makemigrations
+$ ./manage.py migrate
+```
+
 Now you can access the local server in the default port
 
 ```url
