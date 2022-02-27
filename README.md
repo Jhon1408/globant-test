@@ -53,6 +53,7 @@ DJANGO_SETTINGS_MODULE=globant_test.settings
 To test the project use the pytest.ini file
 
 ```shell
+$ export DJANGO_SETTINGS_MODULE=globant_test.settings
 $ pytest
 ```
 
