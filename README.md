@@ -88,12 +88,14 @@ $ ./manage.py migrate
 
 Now you can access the local server in the default port
 
-```url
+```
+HTTP GET
 http://localhost:8000/api/
 ```
 
 Testing the weather api
 
-```url
+```
+HTTP GET
 http://localhost:8000/api/weather?city=Bogota&country=co
 ```
