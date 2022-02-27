@@ -83,7 +83,6 @@ Run 'python manage.py migrate' to apply them.
 You can execute the following commands, however this are not needed by the API to work
 
 ```shell
-$ ./manage.py makemigrations
 $ ./manage.py migrate
 ```
 
