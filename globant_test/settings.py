@@ -20,10 +20,10 @@ env.read_env(str(BASE_DIR / '.env'))
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/4.0/howto/deployment/checklist/
 
-DEBUG = env('DEBUG', default=False)
+DEBUG = env('DEBUG', default=True)
 SECRET_KEY = env('SECRET_KEY', default='')
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
