@@ -27,6 +27,7 @@ $ source env-globant/bin/activate
 Then go inside the project folder and install the requirements
 
 ```shell
+$ cd globant-test/
 $ pip install -r requirements.txt
 ```
 
